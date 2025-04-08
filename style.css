@@ -70,6 +70,17 @@ body {
     cursor: pointer;
 }
 
+.project-button2, .contact-button {
+    background-color: rgba(153, 153, 153, 0.2);
+    color: #666;
+    padding: 0.8rem 2rem;
+    border: none;
+    border-radius: 4px;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+
 /* About Me Section */
 .aboutme-intro-heading {
     font-size: 2.1rem;
